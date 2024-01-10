@@ -5,5 +5,6 @@ function f(){
     let x=200;
 }
 f();
-let x=100
+ x=100
+
 console.log(x);
